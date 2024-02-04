@@ -1,0 +1,148 @@
+body{
+  margin:0;
+  padding: 0;
+  font-family: 'Titillium Web', sans-serif !important;
+  font-size: 18px !important;
+
+}
+h1 h2 h3 h4 h5{
+  font-weight:bolder !important;
+}
+
+/* .about-second{
+  background-image: url("6.png");
+  background-size: cover;
+  background-position: center;
+  height: 40vh;
+} */
+#nav{
+  background-color: black !important;
+}
+.navbar-nav .nav-link{
+  color: white;
+  font-size: 30px;  
+  text-transform: uppercase;
+  font-family:'Titillium Web', sans-serif !important;
+  font-size: 22px;
+}
+.navbar-nav .nav-link:hover{
+  color:#AAFF00 !important;
+  }
+#logo-text{
+  color: #AAFF00 !important;
+  padding-left: 10px;
+  font-size: 30px;  
+  text-transform: uppercase;
+  font-family:'Titillium Web', sans-serif !important;
+  font-size: 22px;
+} 
+.text-block {
+  position: absolute;
+  bottom: 40px;
+  left: 10px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  /* border-style: solid; */
+  /* opacity: 10; */
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.2);
+  
+}
+.text-block h4{
+  font-size: 50px;
+}
+.about-first{
+  background-color: #D4FF33;
+}
+.about{
+  text-align: center;
+}
+.carousel-inner  .carousel-item  img {
+    width:640px;
+    height: 87vh; 
+    object-fit: cover;
+    vertical-align: middle;
+    
+    
+  }
+.navbar-nav{
+  margin-left: auto;
+}
+a h1{
+  color: #AAFF00;
+}  
+p{
+  color: black;
+}
+.services h1{
+  text-align: center;
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+
+.about h1{
+  padding-bottom: 40px;
+}
+
+.services-card{
+  background-color: #D4FF33;
+  /* margin-top: 2px; */
+  /* padding: 10px;   */
+  
+}
+.services-sec{
+  padding-bottom: 80px;
+}
+  .highlighter{
+    background-image: url("13.jpg");
+    background-size: cover;
+
+    background-position: center;
+    /* text-align: center; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 40vh; 
+  }
+.highlighter h4{
+  vertical-align: middle; 
+  text-align: center;
+}
+#myVideo {
+  /* position: fixed; */
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+.card {
+margin: 20px;
+background-color: black;
+
+
+}
+.card:hover{
+  transform:scale(1.19);
+  cursor: pointer;
+}
+.card-body{
+
+}
+.approach{
+  background-color: black;
+}
+/* }
+#police{
+  background-image: url(logo2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+} */
